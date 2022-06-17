@@ -56,8 +56,8 @@ https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/premiere7_0b6a6376_7eac11e26232
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Band Sport
 https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/bandsports_f53eac2e_124b8724330d653b2f0ed5f02f6f6b4d7d80c5c4/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MTUxO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT TV
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/sportv_91dfde1d_f1a74805fb0c66c48e4b2b79a4c1feafe1349e3f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MjAzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT TV TESTE
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/sportv_91dfde1d_f1a74805fb0c66c48e4b2b79a4c1feafe1349e3f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4NzQ3O30%3D
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT TV 2
 https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/sportv2_22ab0e43_7500e0410fbcd10e1e6bb13a4db139d44f0b1f8a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4Mjg5O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
@@ -67,6 +67,24 @@ https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/sportv3_e1a864f0_726d07bb8f41c
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Combate
 https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/combate_ac3478d6_a89023c18183ffef3a7b5cddba3bde5178529ab3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg2NDMwO30%3D
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",ESPN 2
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/espn2_6c1e671f_7814ce1735e5d474ad7ddcd7b387bb2ea8aea365/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg5MjA2O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORT 2
+https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/foxsports2_fc8d9e6e_c11a36ae5a52f66094ef4e6768319eb4c19b2ad2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg5MjUzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",Globo SP
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/globosp_cfe21c68_6a7900c4772d84f68dd965e853c53a8e91f66756/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg5MzExO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",Record 
+https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/record_3554dce5_d952acbf003af7d21ead11c57e50ec7469c8f88b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg5Mzc4O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",SBT SP
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/sbtsp_2a5ac580_403a9aeb43308252c77e885cfccdfb9e48915d3c/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg5NDM5O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",BAND
+https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/band_49e3d046_fd129bbafdf0960524b9502b0ede60ed2250a956/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg5NTEyO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
 
 #EXTINF:-1 tvg-logo="" group-title="DESENHO",Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -82,3 +100,25 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Pluto TV FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",Disney Channel
+https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/disneychannel_a9334987_0fdca023bfd102d9f9b38212a7778765e9c7a89c/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwMzM1O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",Cartoon Network
+https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/cartoonnetwork_511a418e_131594872a2ee1278499974e33d9843288360474/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNDIyO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",Gloobinho
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/gloobinho_f597ae7c_d84efd5ba0063f7945b8412126f1b512e79c908a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNDkzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",Nick Jr
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/nickjr_54ceb912_5bf0fbdfd8f42d1c833fe4ca90f9c0a57f22fb0d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNTgzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",Tooncast
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/tooncast_8effee40_d64650bd377533929a3aac470804c3ce453172ad/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNjM1O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",Discovery Kids
+https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/discoverykids_80e28a51_24463cc7e032bf7c4af55d1ee91ab05eb5ae2a4a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNjkwO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHO",ZooMoo Kids
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/zoomookids_9dbb7f83_3dbebce1df71829618ae7e95ca27d1c9338a3e88/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNzQ5O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
