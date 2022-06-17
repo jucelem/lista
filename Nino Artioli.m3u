@@ -14,6 +14,18 @@ http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-logo="" group-title="XXX",PornoStar
 http://cdn.adultiptv.net/pornstar.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="XXX",PLAYBOY
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy-dfxp_10000_spa_SUBT=30003-begin=2354229522000000-dur=40000000-seq=58855739.webvtt
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",SEXHOT
+https://m3u9.ml/a2/hls1/sexhot.m3u8?mu3zAQc9HC3GbwJq=rxbPPWv_mcu46EpdzjP2BA&3U1G7qaTxrPbalZnEx=1655522241|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fsinalpublico.com%2F
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",VENUS
+https://edge3.prepro.cvattv.com.ar/live/vod/Venus/SA_Live_WebVTT_FTA/Venus-avc1_1532000=10004.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fcanaistv.online%2F
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",SEXTREME
+https://edge3.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fcanaistv.online%2F
+
 #EXTINF:-1 tvg-logo="" group-title="FECHADO",Comedy Central
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
@@ -31,6 +43,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",FOX SPORT
+https://origin.esporteone.com/ESPN4SD/tracks-v1a1/mono.m3u8?md5=DCewwKOoULjFMo4FQq9Z3Q&expires=1655500226|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fesporteone.com%2Fplayer%2Fcanais.php%3Fcanal%3DESPN4SD
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",PFC PREMIUN
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/premiereclubes_3f1522d0_e6c2ca0f22f0b2947ed40347bd94ee4fc0113dd7/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg3MTQ4O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
@@ -122,3 +137,14 @@ https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/discoverykids_80e28a51_24463c
 #EXTINF:-1 tvg-logo="" group-title="DESENHO",ZooMoo Kids
 https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/zoomookids_9dbb7f83_3dbebce1df71829618ae7e95ca27d1c9338a3e88/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDkwNzQ5O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
 
+#EXTINF:-1 tvg-logo="" group-title="FECHADO",UNIVERSAL TV
+https://origin.esporteone.com/UNIVERSALSD/tracks-v1a1/mono.m3u8?md5=EMG3XLbcmWwQTk0c1ddzVw&expires=1655499898|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fesporteone.com%2Fplayer%2Fcanais.php%3Fcanal%3DUNIVERSALSD
+
+#EXTINF:-1 tvg-logo="" group-title="FECHADO",WANER BROS
+https://m3u9.ml/a2/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=bqKiVhtK9GIPyBsemjshDA&3U1G7qaTxrPbalZnEx=1655522829|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fsinalpublico.com%2F
+
+#EXTINF:-1 tvg-logo="" group-title="FECHADO",TELECINE PIPOCA
+https://m3u9.ml/a2/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=Z-QgLaKde-gLD5tqd_cn0w&3U1G7qaTxrPbalZnEx=1655522576|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fsinalpublico.com%2F
+
+#EXTINF:-1 tvg-logo="" group-title="FECHADO",TELECINE PREMIUN
+https://m3u9.ml/a2/hls1/telecinepremium.m3u8?mu3zAQc9HC3GbwJq=FD2y1D1BahX69j1WY0LVCg&3U1G7qaTxrPbalZnEx=1655522646|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fsinalpublico.com%2F
