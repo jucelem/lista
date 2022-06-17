@@ -32,6 +32,39 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC PREMIUN
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/premiereclubes_3f1522d0_e6c2ca0f22f0b2947ed40347bd94ee4fc0113dd7/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg3MTQ4O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC 2
+https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/premiere2_f5b68d74_f8249377d178e98c70ccddf8bfffba84007e227b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg3ODI2O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC 3
+https://edge-aws.aovivotv.xyz/hls/s:51.158.161.235/premiere3_b903ea63_49dd5803bc4d6ccd87d2134dd60a9520379ef3dc/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg3OTgwO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC 4
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/premiere4_142e9ae3_ee7ebb03a13a10385aff3f537d5f9880c2589ba6/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MDE0O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC 5
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/premiere5_0486ffb0_81840d3b08540799968058d960e3b695a0e495a7/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MDUzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC 6
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/premiere6_8a279e5c_fa2e9ff2668e1ed17cc40fff8d4facfe18b29ea5/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MDgzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",PFC 7
+https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/premiere7_0b6a6376_7eac11e26232ceb1ef2361a9fd4a6373f6dea449/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MTE4O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Band Sport
+https://edge-aws.aovivotv.xyz/hls/s:51.15.67.42/bandsports_f53eac2e_124b8724330d653b2f0ed5f02f6f6b4d7d80c5c4/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MTUxO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT TV
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/sportv_91dfde1d_f1a74805fb0c66c48e4b2b79a4c1feafe1349e3f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MjAzO30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT TV 2
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/sportv2_22ab0e43_7500e0410fbcd10e1e6bb13a4db139d44f0b1f8a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4Mjg5O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT TV 3
+https://edge-aws.aovivotv.xyz/hls/s:51.158.185.27/sportv3_e1a864f0_726d07bb8f41cd00090bb65129afc371e1bd9321/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg4MzA5O30%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A101.0)%20Gecko%2F20100101%20Firefox%2F101.0&Referer=https%3A%2F%2Fplayer.aovivotv.xyz%2F
+
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Combate
 https://edge-aws.aovivotv.xyz/hls/s:51.15.123.117/combate_ac3478d6_a89023c18183ffef3a7b5cddba3bde5178529ab3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTcyLjE0NC40NCI7aToxO3M6ODA6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEwMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEwMS4wIjtpOjI7aToxNjU1NDg2NDMwO30%3D
 
