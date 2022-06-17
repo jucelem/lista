@@ -29,9 +29,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 tvg-logo="" group-title="NACIONAL",RECORD SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELECINEL",TELECINE ACTION
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
